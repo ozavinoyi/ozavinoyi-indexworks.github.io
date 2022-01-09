@@ -1,0 +1,23 @@
+div.paper {
+    padding: 2rem;
+}
+
+section.workouts {
+    padding: 1rem;
+}
+
+div.content {
+    max-width: 60%;
+}
+
+section.introducing {
+    padding: 2rem;
+}
+
+a.intro-btn {
+    width: 30%;
+}
+
+svg {
+    min-height: 830px;
+}

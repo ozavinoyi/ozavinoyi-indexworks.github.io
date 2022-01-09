@@ -1,0 +1,77 @@
+header {
+    height: 520px;
+}
+
+svg {
+    min-height: 835px;
+}
+
+div.welcome-message {
+    width: 100%;
+    margin: 20px auto;
+}
+
+div.welcome-message div p, div.welcome-message div h2 {
+    padding: 1rem;
+    font-size: 0.8rem;
+}
+
+nav {
+    bottom: -5px;
+    left: 0;
+    right: 0;
+}
+
+nav ul {
+    flex-direction: column;
+}
+
+nav ul li a {
+    font-size: 0.8rem;
+}
+
+section.intro-to-site h3, section.intro-to-site p {
+    text-align: center;
+}
+
+div.paper {
+    padding: 1rem;
+}
+
+div.contents {
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+a.con img {
+    max-height: 250px;
+    margin-top: 1rem;
+}
+
+section.workouts {
+    padding: 0.5rem;
+}
+
+div.content {
+    max-width: 100%;
+}
+
+div.circle-left-top {
+    margin-top: -20px;
+    margin-left: -30px;
+    width: 30px;
+    height: 30px;
+    border: 5px solid teal;
+}
+
+section.introducing {
+    padding: 0.5rem;
+}
+
+a.intro-btn {
+    width: 60%;
+}
+
+div.h, div.st, div.me {
+    font-size: 1rem;
+}

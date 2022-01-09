@@ -1,0 +1,8 @@
+.container {
+    max-width: 1600px;
+}
+
+a.con img {
+    max-height: 450px;
+    margin-top: 1rem;
+}
